@@ -1,9 +1,10 @@
 # Tecnica-em-Informatica
-Em 2026 - 1° Ano✅​
-Em 2027 - 2° Ano​❓​
-Em 2028 - 3° Ano​❓​
 
-##MATÉRIAS
+- Em 2026 - 1° Ano✅​
+- Em 2027 - 2° Ano​❓​
+- Em 2028 - 3° Ano​❓​
+
+#MATERIAS
 
 Eu tenho 17 matérias, mas minhas favoritas são:
 
