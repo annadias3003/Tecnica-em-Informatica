@@ -4,7 +4,7 @@
 - Em 2027 - 2° Ano​❓​
 - Em 2028 - 3° Ano​❓​
 
-## MATÉRIAS
+### MATÉRIAS
 
 ​📚​Eu tenho 17 matérias, mas minhas favoritas são:
 
